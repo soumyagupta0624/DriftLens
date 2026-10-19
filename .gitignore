@@ -1,0 +1,13 @@
+
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.vscode/
+.ipynb_checkpoints/
+
+data/*.db
+data/*.csv
+!data/README.md
+
+models/*.joblib
